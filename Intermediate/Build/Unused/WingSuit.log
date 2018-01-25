@@ -1,0 +1,12 @@
+﻿  Creating makefile for WingSuitEditor (no existing makefile)
+  Deleting old hot reload file: "D:\01_Projects\11_Temp\WingSuit\Binaries\Win64\UE4Editor-WingSuit-3486.dll".
+  Deleting old hot reload file: "D:\01_Projects\11_Temp\WingSuit\Binaries\Win64\UE4Editor-WingSuit-3486.pdb".
+  Deleting old hot reload file: "D:\01_Projects\11_Temp\WingSuit\Binaries\Win64\UE4Editor-WingSuit-5011.dll".
+  Deleting old hot reload file: "D:\01_Projects\11_Temp\WingSuit\Binaries\Win64\UE4Editor-WingSuit-5011.pdb".
+  Deleting old hot reload file: "D:\01_Projects\11_Temp\WingSuit\Binaries\Win64\UE4Editor-WingSuit-6826.dll".
+  Deleting old hot reload file: "D:\01_Projects\11_Temp\WingSuit\Binaries\Win64\UE4Editor-WingSuit-6826.pdb".
+  Performing 1 actions (9 in parallel)
+  [1/1] Link UE4Editor-WingSuit.dll
+     Creating library D:\01_Projects\11_Temp\WingSuit\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-WingSuit.suppressed.lib and object D:\01_Projects\11_Temp\WingSuit\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-WingSuit.suppressed.exp
+  Deploying WingSuitEditor Win64 Development...
+  Total build time: 4.02 seconds (Local executor: 0.51 seconds)

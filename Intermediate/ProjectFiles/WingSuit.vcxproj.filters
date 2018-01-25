@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WingSuit.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FE1CF364-CC1C-4FAC-A879-F98272AD4B5C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WingSuit.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WingSuitEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5935CBE6-43AF-4470-874C-A7648ECC8DE7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WingSuit">
+      <UniqueIdentifier>{438F708C-67A7-4841-A192-C9D2058A0667}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WingSuit\WingSuit.Build.cs">
+      <Filter>Source\WingSuit</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WingSuit\WingSuit.cpp">
+      <Filter>Source\WingSuit</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WingSuit\WingSuit.h">
+      <Filter>Source\WingSuit</Filter>
+    </ClInclude>
+    <Filter Include="Source\WingSuit\Private">
+      <UniqueIdentifier>{7C601CA7-2F37-4918-A2B7-FF75F770F319}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WingSuit\Private\WSCharacter.cpp">
+      <Filter>Source\WingSuit\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\WingSuit\Public">
+      <UniqueIdentifier>{98DB4EAB-9D72-4E97-8D1B-5327595A5CCA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\WingSuit\Public\WSCharacter.h">
+      <Filter>Source\WingSuit\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\WingSuit\Public\WSCharacterMovementComponent.h">
+      <Filter>Source\WingSuit\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\WingSuit\Private\WSCharacterMovementComponent.cpp">
+      <Filter>Source\WingSuit\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
